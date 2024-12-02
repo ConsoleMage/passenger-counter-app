@@ -5,7 +5,6 @@ let count = 0;
 let colorIndex = 0;
 const colors = ["#ff006e", "#3a86ff", "#ffbe0b", "#e9ecef4"];
 
-
 function increment() {
     count += 1;
     countEl.textContent = count;
