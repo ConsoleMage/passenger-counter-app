@@ -1,3 +1,3 @@
 # passenger-counter-app
 
-This is a project on scrimba I did to make interactive web apps while also adding in personalization features to enhance the user experience.
+This is a project on Scrimba I did to make interactive web apps while also adding in personalization features to enhance the user experience.
