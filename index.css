@@ -11,6 +11,8 @@ body {
 }
 
 .container {
+    width: 400px;
+    height: 1000px;
     margin: 5px 5px;
     box-sizing: border-box;
     border: 5px solid black;
@@ -18,7 +20,7 @@ body {
     background-image: url("https://m.media-amazon.com/images/I/719aQ46XXTL._AC_UF894,1000_QL80_.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 20px -130px;
+    background-position: -50px -130px;
 }
 
 h1 {
