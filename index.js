@@ -25,5 +25,6 @@ function save() {
     newElement.style.color = getNextColor(); 
     container.appendChild(newElement);
     
+    countEl.textContent = 0;
     count = 0; 
 }
